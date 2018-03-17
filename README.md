@@ -1,4 +1,4 @@
-# gater-helper-sfsu
+# gator-helper-sfsu
 
 ## 1. A user create a “need help message in the lobby”
 ### The message will contain the time when and how the person can be helped. For instance:  a user request someone needs a help to buy food from traderjo.
