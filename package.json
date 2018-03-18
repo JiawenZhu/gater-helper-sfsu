@@ -1,6 +1,6 @@
 {
   "name": "gator-helper",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
@@ -8,13 +8,15 @@
   "dependencies": {
     "bcrypt": "^1.0.2",
     "body-parser": "~1.17.1",
+    "bootstrap": "^4.0.0",
     "connect-flash": "^0.1.1",
     "consolidate": "^0.15.0",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.3",
+    "dependencies": "0.0.1",
     "dustjs-helpers": "^1.7.3",
     "dustjs-linkedin": "^2.7.5",
-    "express": "^4.16.2",
+    "express": "^4.16.3",
     "express-handlebars": "^3.0.0",
     "express-session": "^1.15.2",
     "express-validator": "^4.3.0",
@@ -25,6 +27,7 @@
     "pg-promise": "~5.6.4",
     "pug": "~2.0.0-beta11",
     "serve-favicon": "~2.4.2",
-    "socket.io": "~1.7.3"
+    "socket.io": "~1.7.3",
+    "twilio": "^3.13.1"
   }
 }
