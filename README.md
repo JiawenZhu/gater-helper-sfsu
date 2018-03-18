@@ -1,6 +1,8 @@
 # gator-helper-sfsu
 
-## 1. A user create a “need help message in the lobby”
+Our project is about creating a Student Help app platform, where students ask for help when they are busy from other students. To use the service:
+
+## 1. Users create a “need help message in the lobby”
 ### The message will contain the time when and how the person can be helped. For instance:  a user request someone needs a help to buy food from traderjo.
 
 ## 2. A helper will accept the message and start a conversation with that user.
@@ -18,3 +20,6 @@
 ![request](https://user-images.githubusercontent.com/26285751/37569539-ff4f99f8-2aa0-11e8-9795-4724160d7a4a.png)
 ![postnewrequest](https://user-images.githubusercontent.com/26285751/37569540-ff637810-2aa0-11e8-87a4-7b7c663d6624.png)
 ![chat](https://user-images.githubusercontent.com/26285751/37569541-ff7a58be-2aa0-11e8-88a6-9cf8237e4eaf.png)
+
+We use the following languages: Javascript, HTML, SQL, Bootstrap. Our API were using Twillio. 
+
